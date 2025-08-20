@@ -1,6 +1,6 @@
 # SQL-project-2-Covid-data-visualisation
 
-This project builds on my SQL analysis of COVID-19 data. After exploring key metrics such as infection rates, death rates, and country-level trends using SQL, I imported the results into Tableau to create an interactive dashboard. The aim was to move from raw data exploration to an interactive visual story, making patterns in the pandemic easier to understand.
+This project builds on my SQL analysis of COVID-19 data from 2020 t0 2021. After exploring key metrics such as infection rates, death rates, and country-level trends using SQL, I imported the results into Tableau to create an interactive dashboard. The aim was to move from raw data exploration to an interactive visual story, making patterns in the pandemic easier to understand.
 --
 ## Findings & Analysis
 Global Summary (Top KPIs)
